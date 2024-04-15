@@ -1,4 +1,3 @@
-```markdown
 # Tutorial de Normalização de Array em C++
 
 Este tutorial detalha o processo de normalização de um array em C++, onde os elementos são transformados em seus índices de classificação no array ordenado.
@@ -88,8 +87,6 @@ Após a execução do código, a saída esperada é:
 ```
 0 1 2 4 3
 ```
-
-Cada elemento do array original foi substituído pelo índice de sua posição no array ordenado `temp`.
 
 ## Conclusão
 
