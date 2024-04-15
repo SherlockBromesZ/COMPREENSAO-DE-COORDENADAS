@@ -91,4 +91,3 @@ Após a execução do código, a saída esperada é:
 ## Conclusão
 
 Este tutorial demonstrou como normalizar um array em C++, uma técnica útil em muitos contextos de programação, como algoritmos de compressão de dados e estruturas de dados avançadas.
-```
